@@ -1,4 +1,4 @@
-# SQL-Code
+# SQL_Code
 <p>Here's a list of SQL queries for data analysis tasks, explained in a simple way, ideal for beginners. It serves as notes for practicing and mastering SQL, covering both the basics and more advanced concepts.</p>
 
 ![sqlpinkmean](https://github.com/PinkMean/SQL-Code/assets/137222857/d8f2ec09-66da-4a3f-ae0d-c1830dfce832)

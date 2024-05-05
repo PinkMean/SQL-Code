@@ -1,6 +1,6 @@
--- CREATE TABLE 
-
 USE empreport;
+
+-- CREATE TABLE 
 
 CREATE TABLE EmployeeData (
 	Employee_ID VARCHAR(20),

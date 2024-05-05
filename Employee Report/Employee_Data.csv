@@ -1,0 +1,51 @@
+Employee_ID;First_Name;Last_Name;Gender;Birth_Date;Job_Title;Job_catgegory;Salary;Experience_Level;Work_Setting;Location;Company_Size;Hire_Date
+2015A1992;LISA;RUSSELL;Female;04/20/1992;Data Analyst;Data Analysis;95000;Entry-level;In-person;United States;M;11/30/2015
+2015B1992;SHARAD;GARBHARRAN;Male;04/20/1992;Data Analyst;Data Analysis;75000;Entry-level;In-person;United States;M;01/20/2015
+2010R1960;MALCOLM;ADAMS;Male;04/20/1960;Data Analyst;Data Analysis;110000;Senior;Remote;Poland;M;06/30/2010
+2010S1960;JAMES;AGUILA;Male;04/20/1960;Data Analyst;Data Analysis;143000;Senior;Remote;Canada;M;06/30/2010
+2015C1992;PHYLLIS;ADAMS;Male;04/20/1992;Data Analyst;Data Analysis;30000;Entry-level;Hybrid;India;M;07/15/2016
+2015D1992;WILMA;ANDERSON;Female;04/20/1992;Data Analyst;Data Analysis;50000;Entry-level;Hybrid;United States;L;07/15/2015
+2010T1960;TYRONE;ADAMS;Male;04/20/1960;Data Analyst;Data Analysis;110000;Senior;Remote;United States;M;06/30/2010
+2010U1960;LEAH;BYERLY;Male;04/20/1960;Business Data Analyst;Data Analysis;180000;Senior;Remote;United States;L;06/30/2010
+2010V1960;LAYA;VELASQUEZ;Female;04/20/1960;Business Data Analyst;Data Analysis;78000;Senior;Remote;United States;L;06/30/2010
+2015R1980;JOHN;VIVANCO;Male;11/20/1980;Business Data Analyst;Data Analysis;17000;Mid-level;Remote;Russia;L;08/20/2015
+2015S1980;YOLANDA;HODGES;Female;11/20/1980;Business Data Analyst;Data Analysis;36000;Mid-level;In-person;Ghana;S;08/20/2015
+2015T1980;LILLIAN;GONU;Female;11/20/1980;Business Data Analyst;Data Analysis;35000;Mid-level;Remote;United States;M;08/20/2012
+2015E1992;JOEY;ANDERSON;Male;04/20/1992;Financial Data Analyst;Data Analysis;56500;Entry-level;Hybrid;United States;L;11/15/2015
+2015F1992;KATHLEEN;BUTLER;Female;04/20/1992;Financial Data Analyst;Data Analysis;40000;Entry-level;In-person;Nigeria;S;07/15/2018
+2015E1980;LEKETHA;GIL;Male;11/20/1980;Financial Data Analyst;Data Analysis;130000;Mid-level;Remote;United States;L;08/20/2012
+2015K1980;LESLIE;FIRFER;Female;11/20/1980;Financial Data Analyst;Data Analysis;75000;Mid-level;In-person;United States;M;08/20/2012
+2015G1992;TANDA;JACOBS;Male;04/20/1992;Financial Data Analyst;Data Analysis;100000;Entry-level;Hybrid;United States;L;07/15/2015
+2010W1960;VERNA;TORRANCE;Female;04/20/1960;Marketing Data Analyst;Data Analysis;200000;Senior;Remote;United Kingdom;S;06/30/2010
+2015L1980;JEAN;DANIELS;Female;11/20/1980;Staff Data Analyst;Data Analysis;179998;Mid-level;Remote;Saudi Arabia;S;08/20/2012
+2015M1980;GRESHYNKA;THOMAS;Female;11/20/1980;Sales Data Analyst;Data Analysis;60000;Mid-level;In-person;Nigeria;M;08/20/2015
+2009Q1969;KATHLEEN;MORAN;Male;09/20/1969;Staff Data Analyst;Data Analysis;15000;Executive;In-person;Canada;M;08/20/2009
+2015H1992;SHEILA;LOVE;Female;04/20/1992;Compliance Data Analyst;Data Analysis;60000;Entry-level;Remote;United States;L;07/15/2015
+2015J1992;JEFFREY;STURT;Male;04/20/1992;Compliance Data Analyst;Data Analysis;30000;Entry-level;Remote;Nigeria;L;07/15/2018
+2015K1992;JASPER;NELSON;Male;04/20/1992;BI Data Analyst;Data Analysis;25000;Entry-level;Remote;Netherlands;M;06/15/2017
+2015L1992;JACQUELYN;ANDERSON;Female;04/20/1992;BI Data Analyst;Data Analysis;50000;Entry-level;Remote;Kenya;S;07/15/2018
+2015M1992;SEAN;GARVEY;Male;04/20/1992;BI Data Analyst;Data Analysis;85000;Entry-level;Remote;United States;M;07/30/2015
+2015N1992;JORGE;ROBLES;Male;04/20/1992;BI Data Analyst;Data Analysis;99000;Entry-level;Remote;United States;L;07/15/2015
+2015N1980;MICHAEL;BREIER;Male;11/20/1980;BI Data Analyst;Data Analysis;70000;Mid-level;Remote;United States;M;08/20/2012
+2015O1992;MARY ELIZABETH;YOPCHICK;Female;04/20/1992;BI Data Analyst;Data Analysis;60000;Entry-level;Remote;United States;M;07/15/2015
+2015P1992;NELSON;LEWIS;Male;04/20/1992;BI Data Analyst;Data Analysis;57000;Entry-level;Remote;United States;L;08/20/2016
+2015Q1992;TAHIR;WILLIAMS;Male;04/20/1992;BI Data Analyst;Data Analysis;55000;Entry-level;Hybrid;United States;S;02/15/2015
+2015O1980;JOHNNIE;MCKINNEY JR;Male;11/20/1980;BI Data Analyst;Data Analysis;100000;Mid-level;Remote;United States;M;08/20/2012
+200A1969;MAIESHA;BAPTISTE;Male;09/20/1969;BI Data Analyst;Data Analysis;150000;Executive;Remote;United States;L;08/20/2008
+2015P1980;MARITA;SULLIVAN;Female;11/20/1980;BI Data Analyst;Data Analysis;98000;Mid-level;In-person;United States;M;08/20/2012
+2015Q1980;CHERYL;BYNUM;Female;11/20/1980;Data Analyst;Data Analysis;95000;Mid-level;Remote;United States;M;08/20/2012
+2015B1980;NIRMALA;GONU;Female;11/20/1980;Data Analyst;Data Analysis;75000;Mid-level;Remote;United States;M;08/20/2012
+2015A1980;ALEXANDRA;BOUZIOTIS;Male;11/20/1980;Data Analyst;Data Analysis;115000;Mid-level;In-person;United States;M;08/20/2012
+2015C1980;PATRICIA;SMITH;Female;11/20/1980;Data Analyst;Data Analysis;105000;Mid-level;In-person;United States;M;08/20/2012
+2015D1980;LIGI;ABRAHAM;Male;11/20/1980;Data Analyst;Data Analysis;104000;Mid-level;In-person;United States;M;08/20/2012
+2010X1960;RICHARD;MACCARTHY;Male;04/20/1960;Data Analyst;Data Analysis;157500;Senior;Remote;United States;M;06/30/2010
+2010A1960;ROBERT;CLARK;Male;04/20/1960;Data Analyst;Data Analysis;132500;Senior;Remote;United States;M;06/30/2010
+2015I1980;RICHARD;LESIAK;Male;11/20/1980;Data Analyst;Data Analysis;85000;Mid-level;In-person;United States;M;08/20/2012
+2015J1980;ROBERT;PAPINEAU;Male;11/20/1980;Data Analyst;Data Analysis;75000;Mid-level;In-person;United States;M;08/20/2012
+2010I1960;MAE;WRIGHT;Female;04/20/1960;Data Analyst;Data Analysis;93918;Senior;In-person;United States;M;06/30/2010
+2010O1960;SALLY;ZAMORANO;Female;04/20/1960;Data Analyst;Data Analysis;51962;Senior;In-person;United States;M;06/30/2010
+2010P1960;MELISSA;AFRIYIE;Female;04/20/1960;Data Analyst;Data Analysis;166000;Senior;In-person;United States;M;06/30/2010
+2010J1960;TUSHAR;ADVANI;Male;04/20/1960;Data Analyst;Data Analysis;73000;Senior;In-person;United States;M;06/30/2010
+2015R1992;JOY;COLEMAN;Female;04/20/1992;Data Analyst;Data Analysis;90000;Entry-level;Remote;United States;S;06/30/2015
+2015S1992;DANIEL;ADUGBA;Male;04/20/1992;Data Analyst;Data Analysis;60000;Entry-level;Remote;United States;S;07/30/2015
+2010H1960;JOY;MARTINEZ;Female;04/20/1960;Data Analyst;Data Analysis;80000;Senior;Remote;United States;S;06/30/2010

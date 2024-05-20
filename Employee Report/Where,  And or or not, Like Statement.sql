@@ -56,10 +56,25 @@ OR Gender = 'Male';
 
  -- Find records with a birthdate greater than '1991-04-20' or gender not 'Male'
  -- Or not meaning both Male and Female Gender
+ -- Find records of Lisa Age 32 using AND OR
+ 
 SELECT *
 FROM empreport.employeedata
 WHERE Birthdate > '1991-04-20'
 OR NOT Gender = 'Male';
+
+SELECT *
+FROM empreport.employeedata
+WHERE First_Name = 'LISA' AND Age = 32;
+
+SELECT *
+FROM empreport.employeedata
+WHERE (First_Name = 'LISA' AND Age = 32) OR Age <= 32;
+
+SELECT *
+FROM empreport.employeedata
+WHERE (Age = 32 AND Gender ='Male') OR Age >= 64;
+
 
 -- LIKE STATEMENT 
 -- % Anything and Specific Value _
@@ -94,6 +109,7 @@ WHERE First_Name Like 'L___';
 SELECT *
 FROM empreport.employeedata
 WHERE birthdate Like '1992%';
+
 
 
 

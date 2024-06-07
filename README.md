@@ -1,35 +1,174 @@
-# SQL_Code
-<p>Here's a list of SQL queries for data analysis tasks, explained in a simple way, ideal for beginners. It serves as notes for practicing and mastering SQL, covering both the basics and more advanced concepts.</p>
+![sql1 (5)](https://github.com/PinkMean/SQL-Code/assets/137222857/1077628f-1084-4f35-a0e3-edb642205a9f)
 
-![sqlpinkmean](https://github.com/PinkMean/SQL-Code/assets/137222857/d8f2ec09-66da-4a3f-ae0d-c1830dfce832)
+# SQL Learning Guide
 
-<h3> Welcome to a beginner-friendly guide to studying SQL. </h3>
+## SQL Introduction
+  - What is SQL?
+  - Why Learn SQL?
+## Database Basics
+  - What is a Database?
+  - Types of Databases
+  - How to Install a Database
+##  Database Operations
+  - Create Database
+  - Delete Database
+  - Backup Database
+  - Use Database
+## Table Operations
+  - Create Table
+  - Insert Data into Table
+  - Delete Table
+  - Alter Table
+  - Update Table
+## SQL Constraints
+  - NOT NULL
+  - UNIQUE
+  - PRIMARY KEY
+  - FOREIGN KEY
+  - CHECK
+  - DEFAULT
+  - CREATE INDEX
+## Advanced Database Features
+  - Auto Increment
+  - Views
+  - Database Hosting
+## Data Types
+  - Numeric
+  - Strings
+  - Datetime
+  - Boolean
+  - JSON
+## SQL Commands
+  - Comments in SQL
+  - Select Statements
+    - SELECT
+    - SELECT DISTINCT
+    - SELECT TOP
+## SQL Operators
+  - Arithmetic Operators
+  - Comparison Operators
+  - Logical Operators
+## SQL Functions
+  - MySQL Functions
+    - String Functions
+    - Numeric Functions
+    - Date Functions
+##  SQL Clauses
+  - WHERE Clause
+## Aggregation and Sorting
+  - Group By
+  - Order By
+##  Additional Clauses
+  - HAVING Clause
+  - LIMIT Clause
+## SQL Joins
+  - Inner Join
+  - Left Join
+  - Right Join
+  - Full Join
+## Combining Queries
+  - Unions
+## Conditional Statements
+  - CASE Statement
+## Advanced SQL Techniques
+  - Subqueries
+  - Window Functions
+  - Common Table Expressions (CTE)
+  - Temporary Tables
+  - Stored Procedures
+  - Triggers and Events
 
-<h1>What is SQL</h1>
-  <p>SQL or Sequel, Short for Structured Query Language, is a programming language primarily used for managing and manipulating relational databases. </p>
-<h1>Introduction to SQL</h1>
-SQL is a powerful programming language used for managing and manipulating relational databases. It allows users to interact with databases by performing tasks such as querying data, inserting new records, updating existing records, and deleting data. SQL plays a crucial role in database management as it provides a standardized way to communicate with databases, making it easier to retrieve and manipulate data efficiently. 
-<h1>Types of SQL</h1>
-SQL databases come in various types, each with its own characteristics and features. Some common types of SQL databases include MySQL, PostgreSQL, SQL Server, Oracle Database, and SQLite. Each database management system (DBMS) has its own strengths and limitations, making it important to choose the right one based on specific requirements and use cases.
+## Descriptions
 
-<h5>Setting up  SQL environment</h5>
-Download SQL Server Management Studio (SSMS) 
-Link: #https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16
+### SQL Introduction
+- **What is SQL?**: Overview of SQL and its purpose in database management.
+- **Why Learn SQL?**: Benefits and applications of learning SQL.
 
-Down SQL Server 
-Link: #https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+### Database Basics
+- **What is a Database?**: Definition and key components of databases.
+- **Types of Databases**: Different types of databases (Relational, NoSQL, etc.).
+- **How to Install a Database**: Steps to install popular databases like MySQL, PostgreSQL, and MongoDB.
 
+### Database Operations
+- **Create Database**: SQL command to create a new database.
+- **Delete Database**: SQL command to delete an existing database.
+- **Backup Database**: Methods to back up a database.
+- **Use Database**: Switching and using different databases.
 
-<h2>Start Here</h2>
-Link: https://github.com/PinkMean/SQL-Code/blob/main/EmployeeManagement 
+### Table Operations
+- **Create Table**: SQL command to create a new table.
+- **Insert Data into Table**: SQL command to insert data into a table.
+- **Delete Table**: SQL command to delete a table.
+- **Alter Table**: SQL command to modify the structure of an existing table.
+- **Update Table**: SQL command to update existing data in a table.
 
-EMPLOYEE MANAGEMENT: Managing Employee Data with SQL: A Beginner Friendly Guide
+### SQL Constraints
+- **NOT NULL**: Ensures that a column cannot have a NULL value.
+- **UNIQUE**: Ensures all values in a column are unique.
+- **PRIMARY KEY**: Uniquely identifies each record in a table.
+- **FOREIGN KEY**: Ensures referential integrity between two tables.
+- **CHECK**: Ensures that all values in a column satisfy a specific condition.
+- **DEFAULT**: Sets a default value for a column.
+- **CREATE INDEX**: Creates an index on a table for faster retrieval.
 
-Description: Explore the fundamentals of data analysis with SQL.
-* Begin by creating databases named **Employee Management**
-*  Creating tables **EmployeeDetails** and **EmployeeSalary**, and inserting information.
-*   Then, analyze the data effectively using **Select statements**, **Where** clauses, **Group by** , and **Order by** queries.
-*   Explore employee details such as names, Ages, and Genders stored in the EmployeeDetails table, and uncover salary information like job titles and earnings in the EmployeeSalary table.
-*    Designed for beginners and anyone interested in data management, this tutorial offers simple explanations and practical examples to make learning SQL easy and accessible.
+### Advanced Database Features
+- **Auto Increment**: Automatically generates a unique number for a column.
+- **Views**: Virtual tables created from a SQL query.
+- **Database Hosting**: Hosting options for databases (local vs. cloud).
 
-  ![sqlpinkmean2](https://github.com/PinkMean/SQL-Code/assets/137222857/4fd668eb-e118-4070-8ee9-3bf1bc4e377d)
+### Data Types
+- **Numeric Data Types**: INT, FLOAT, DOUBLE, DECIMAL.
+- **String Data Types**: VARCHAR, CHAR, TEXT.
+- **Datetime Data Types**: DATE, DATETIME, TIMESTAMP.
+- **Boolean Data Types**: BOOLEAN, BIT.
+- **JSON Data Types**: Storing and querying JSON data.
+
+### SQL Commands
+- **Comments in SQL**: Adding comments to SQL code.
+- **Select Statements**: 
+  - **SELECT**: Retrieve data from a database.
+  - **SELECT DISTINCT**: Retrieve unique records.
+  - **SELECT TOP**: Retrieve the top N records.
+
+### SQL Operators
+- **Arithmetic Operators**: +, -, *, /, %.
+- **Comparison Operators**: =, !=, <>, >, <, >=, <=.
+- **Logical Operators**: AND, OR, NOT.
+
+### SQL Functions
+- **MySQL Functions**:
+  - **String Functions**: CONCAT, LENGTH, LOWER, UPPER, SUBSTRING.
+  - **Numeric Functions**: AVG, COUNT, MAX, MIN, SUM.
+  - **Date Functions**: NOW, CURDATE, DATEDIFF.
+
+### SQL Clauses
+- **WHERE Clause**: Filter records based on conditions (AND, OR, NOT).
+
+### Aggregation and Sorting
+- **Group By**: Group records and calculate aggregates (AVG, MAX, MIN, COUNT).
+- **Order By**: Sort records (ASC, DESC).
+
+### Additional Clauses
+- **HAVING Clause**: Filter groups based on conditions (difference from WHERE).
+- **LIMIT Clause**: Limit the number of records returned; aliasing columns.
+
+### SQL Joins
+- **Inner Join**: Combine records with matching values in both tables.
+- **Left Join**: Include all records from the left table and matched records from the right.
+- **Right Join**: Include all records from the right table and matched records from the left.
+- **Full Join**: Include all records when there is a match in either table.
+
+### Combining Queries
+- **Unions**: Combine the result sets of multiple SELECT queries.
+
+### Conditional Statements
+- **CASE Statement**: Perform conditional logic in queries.
+
+### Advanced SQL Techniques
+- **Subqueries**: Nested queries for complex conditions.
+- **Window Functions**: Perform calculations across a set of table rows.
+- **Common Table Expressions (CTE)**: Simplify complex queries.
+- **Temporary Tables**: Store intermediate results in temporary tables.
+- **Stored Procedures**: Reusable SQL code blocks for repeated tasks.
+- **Triggers and Events**: Automate actions based on table changes or scheduled events.
+

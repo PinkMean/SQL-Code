@@ -2,6 +2,19 @@
 
 # SQL Learning Guide
 
+## Project
+ - **Create Database**: Employee Report
+ - **Data Cleaning**: Change, Update, Modify...
+ - **Data Visualization**
+- 1. What is the total number of employees, and how many are there in each job title?
+- 2. What is the average salary by Job title?
+- 3. What is the distribution of experience levels within the company?
+- 4. What are the common work settings and their salaries?
+- 5. How does employee distribution vary by location?
+- 6. What is the salary range within each company size category?
+   ![image](https://github.com/PinkMean/SQL-Code/assets/137222857/d614f965-d199-4fcc-8051-d2267d7efab8)
+
+
 ## SQL Introduction
   - What is SQL?
   - Why Learn SQL?
